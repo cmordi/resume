@@ -1,2 +1,3 @@
-# resume
-latex code for my resume
+# Software Internships Resume
+
+LaTeX code for my resume
